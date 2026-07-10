@@ -16,14 +16,20 @@ export default function RootLayout() {
             marginTop: 12
 
           }
+        }
+         
         }></TextInput>
-
-        <TouchableOpacity className="bg-red-500"style={{
+ <Text> hekki</Text>
+ Opac
+        <TouchableOpacity className="bg-red-500"style
           color:"black",
           backgroundColor:"red"
         }}
+      
+       
           onPress={() => alert("searching!")}>
-
+ <Text>Hello this is a text kit</Text>
+ 
           <Text style={{
             color: "white",
             fontWeight: "bold",
